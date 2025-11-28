@@ -37,7 +37,7 @@ function App() {
         <button onClick={() => query.refetch()} className='p-[10px] bg-blue-300 hover:cursor-pointer'>Refetch</button>
       </div>
       <div className='flex justify-center items-center p-[20px] m-0 w-[400px] h-[200px] bg-green-300 mt-[40px]'>
-        Não tenho um portfólio
+        Não tenho um portfólio.
       </div>
       <div className='flex justify-center items-center p-[20px] m-0 w-[400px] h-[200px] bg-yellow-200 mt-[40px]'>
         Isso é só um exemplo que eu consigo usar as libs e ferramentas requiridas!
