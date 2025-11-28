@@ -1,5 +1,4 @@
 import { createFileRoute } from '@tanstack/react-router'
-import logo from '../logo.svg'
 import { useQuery } from '@tanstack/react-query'
 
 export const Route = createFileRoute('/')({
